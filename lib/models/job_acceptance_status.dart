@@ -1,0 +1,4 @@
+enum JobAcceptanceStatus {
+  ACCEPTED,
+  REJECTED,
+}

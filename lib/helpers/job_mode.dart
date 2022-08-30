@@ -1,0 +1,4 @@
+enum JobMode {
+  CREATE,
+  EDIT
+}
